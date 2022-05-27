@@ -1,3 +1,5 @@
 # alx-system_engineering-devops
 
-Introduction to shell basics
+1. Introduction to shell basics
+2. Shell permissions
+
