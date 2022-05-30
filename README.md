@@ -2,4 +2,4 @@
 
 1. Introduction to shell basics
 2. Shell permissions
-
+3. I/O shell redirections
